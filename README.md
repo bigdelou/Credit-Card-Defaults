@@ -18,7 +18,7 @@ This research aimed at the case of customers default payments and compares the p
 * X12-X17: Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005. 
 * X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005. 
 
-2. The file of Python codes (MB_Housing Sales Pricing in King County.py) is uploaded here on github
+2. The file of Python codes (MB_Credit-Card-Defaults.py) is uploaded here on github
 3. The presentation powerpoint slides of the project and its stpes (including objectives, problem statement, research questions, methodology, findings, results and conclusions) is provided on github as well. 
 
 Do not hesitate to contact me if you have any questions, comments or feedback!
